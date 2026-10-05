@@ -1,4 +1,6 @@
- # LeetCodes
- - 1: Incomplete
- - 1071: Passed 0ms / Answer review
- - 17668: Passed 0ms
+# LeetCodes
+- 1: Incomplete
+- 605: 0ms
+- 1071: 0ms
+- 1431: 0ms
+- 17668: 0ms
