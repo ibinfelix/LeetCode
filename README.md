@@ -1,5 +1,6 @@
 # LeetCodes
 - 1: Incomplete
+- 151: 0ms
 - 345: 0ms
 - 605: 0ms
 - 739: 16ms
